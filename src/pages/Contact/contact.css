@@ -1,0 +1,18 @@
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.titleContentCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+.mt-10{
+    margin-top: 102px;
+}
+.mr-ml-20{
+    margin-right: 20px;
+    margin-left: 20px;
+}
